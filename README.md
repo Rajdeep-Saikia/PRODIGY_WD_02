@@ -1,3 +1,4 @@
+#PRODIGY_WD_02
 ✅ Task-02 Completed: Stopwatch Web Application⌚
 
 During my internship at Prodigy Infotech, I worked on Task-02 which involved building a Stopwatch Web Application. I developed this project as a web application using HTML, CSS, as well as JavaScript.
